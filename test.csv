@@ -1,5 +1,5 @@
-name,val_ab
-sub01,10
-sub02,14
-sub03,11
-sub04,15
+name,val_ab,val_cd
+sub01,10,1
+sub02,14,2
+sub03,11,3
+sub04,15,4
